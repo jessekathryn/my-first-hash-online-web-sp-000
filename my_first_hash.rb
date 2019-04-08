@@ -1,9 +1,7 @@
 def my_hash
-  favorite_shows = {"HBO" => "True Detective", ""
-   = {"key" => "value", "another_key" => "another value"}
+  favorite_shows = {"HBO" => "True Detective", "Netflix" => "Making a Murderer", "Hulu" => "Handmaid's Tale"
+    
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
 end
 
 
